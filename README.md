@@ -41,7 +41,7 @@ En conjunto, estas características hacen del TFT una herramienta robusta y tran
 
 La siguiente imagen ilustra la arquitectura interna del TFT, mostrando los componentes fundamentales que permiten su alto rendimiento y capacidad interpretativa:
 
-![Arquitectura del Temporal Fusion Transformer](/images/Temporal-Fusion-Transformer-architecture.png)
+![Arquitectura del Temporal Fusion Transformer](/images/TFT_arquitectura.png)
 
 ### Descripción de los Componentes Clave
 
@@ -73,7 +73,7 @@ La siguiente imagen ilustra la arquitectura interna del TFT, mostrando los compo
 
 La siguiente imagen presenta un pipeline o roadmap general para la implementación de un proyecto de análisis y forecasting de activos financieros:
 
-![Pipeline General del Proyecto](/images/Pipeline-General-Proyecto.png)
+![Pipeline General del Proyecto](/images/TFT_pipeline.png)
 
 ### Descripción del Pipeline
 
